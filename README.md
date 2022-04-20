@@ -9,7 +9,7 @@ PIDCoSmsPackage کتابخانه ای است برای ارسال اس ام اس.
 
 </div>
 
-[![Nuget](https://img.shields.io/nuget/v/PIDCoSmsPackage.Core)](https://github.com/afsharsalar/PIDCoSmsPackage.Core/)
+[![Nuget](https://img.shields.io/nuget/v/PIDCoSmsPackage.Core)](https://www.nuget.org/packages/PIDCoSmsPackage.Core/)
 ```
 PM> Install-Package PIDCoSmsPackage.Core
 ```
