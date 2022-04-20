@@ -9,9 +9,9 @@ PIDCoSmsPackage کتابخانه ای است برای ارسال اس ام اس.
 
 </div>
 
-[![Nuget](https://img.shields.io/nuget/v/DigiKalaSellerBot.Core)](https://github.com/afsharsalar/DigiKalaSellerBot.Core)
+[![Nuget](https://img.shields.io/nuget/v/PIDCoSmsPackage.Core)](https://github.com/afsharsalar/PIDCoSmsPackage.Core/)
 ```
-PM> Install-Package DigiKalaSellerBot.Core 
+PM> Install-Package PIDCoSmsPackage.Core
 ```
 <div dir="rtl">
   <h2>نحوه کار 
